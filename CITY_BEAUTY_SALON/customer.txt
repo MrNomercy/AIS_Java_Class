@@ -1,0 +1,2 @@
+CustomerCount: 1	CustomerName: John wick	CustomerAddress: Parabellum	CustomerPhone: 0228375742	CustomerEmail: Johnwick3@gmail.com	CustomerMembershipGold
+CustomerCount: 2	CustomerName: jon snow	CustomerAddress: winterfell	CustomerPhone: 02793774983	CustomerEmail: jonsnow@winterfell.com	CustomerMembershippremium

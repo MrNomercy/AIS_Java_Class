@@ -1,0 +1,44 @@
+CITY Beauty Salon  2019-04-21 Customer Count: 21
+Membership: Premium
+
+Haircuts  		$15
+pedicure  		$15
+hair color  		$10
+skin care  		$30
+Subtotal:		$56.0
+Tax:  		$8.4
+Total Cost:	$64.4
+
+CITY Beauty Salon  2019-04-21 Customer Count: 10
+Membership: Gold
+
+body waxing  		$22
+skin care  		$30
+manicures  		$12
+nail polish  		$8
+Subtotal:		$61.2
+Tax:  		$9.18
+Total Cost:	$70.380005
+
+CITY Beauty Salon  2019-04-21 Customer Count: 51
+Membership: Silver
+
+pedicure  		$15
+massage  		$16
+nail polish  		$8
+shampoo S  		$10
+Subtotal:		$44.1
+Tax:  		$6.615
+Total Cost:	$50.714996
+
+CITY Beauty Salon  2019-04-21 Customer Count: 3
+Membership: No Membership
+
+nail polish  		$8
+shampoo P  		$9
+body waxing  		$22
+manicures  		$12
+Subtotal:		$51.0
+Tax:  		$7.65
+Total Cost:	$58.65
+
